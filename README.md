@@ -32,7 +32,7 @@ kmeans.fit(X)
 # Obtener las etiquetas de los clusters y los centros
 labels = kmeans.labels_
 centers = kmeans.cluster_centers_
-
+```
 ## 🤔 Cuándo utilizar
 El algoritmo de K-Means es ampliamente utilizado en diferentes áreas, como análisis de mercado, segmentación de clientes, bioinformática, procesamiento de imágenes, entre otros. Es una buena opción cuando se desea agrupar datos en clusters de manera rápida y sencilla.
 
