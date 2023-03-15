@@ -48,3 +48,9 @@ Algunas de las desventajas del algoritmo de K-Means son:
 - Requiere que el número de clusters sea especificado de antemano.
 - Es sensible a la selección de los centros iniciales.
 - No es adecuado para encontrar clusters no esféricos.
+
+## 🌐 Recursos Adicionales
+
+- [Scikit-learn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+- [K-Means Clustering Algorithm Explained with Examples](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+- [K-Means Clustering Tutorial](https://towardsdatascience.com/k-means-clustering-8e1e64c1561c)
